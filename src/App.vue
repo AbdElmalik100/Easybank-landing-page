@@ -188,7 +188,7 @@ main {
   background-color: var(--Very-Light-Gray);
   background-image: url(/images/bg-intro-desktop.svg);
   background-position-x: 500px;
-  background-position-Y: -200px;
+  background-position-y: -200px;
   background-size: 100%;
   background-repeat: no-repeat;
 
@@ -319,7 +319,7 @@ main {
   @media (max-width: 991px) {
     background-image: url(/images/bg-intro-mobile.svg);
     background-position-x: 0;
-    background-position-Y: 55px;
+    background-position-y: 55px;
     background-size: 100%;
 
     .landing {
